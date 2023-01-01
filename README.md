@@ -31,6 +31,6 @@ With the development of natural language processing techniques(NLP), automatic d
 ## How to run:
 ### step 1: download the code and dataset:
 ```
-git clone git@github.com:coco11563/NEEDED.git
+git clone git@github.com:coco11563/NEEDED-Introducing-Hierarchical-Transformer-to-Eye-Diseases-Diagnosis.git
 ```
 TBA
