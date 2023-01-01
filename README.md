@@ -4,6 +4,8 @@ This is the release code for :
 [NEEDED: Introducing Hierarchical Transformer to Eye Diseases Diagnosis](https://arxiv.org/abs/2212.13408) 
 which is accepted by SDM 2023!
 
+Congratulations to [Xu, Ye](https://github.com/xuye2020)
+
 Recommended ref:
 ```
 Xu Ye, Meng Xiao, Zhiyuan Ning, Weiwei Dai, Wenjuan Cui, Yi Du, Yuanchun Zhou. NEEDED: Introducing Hierarchical Transformer to Eye Diseases Diagnosis. SIAM International Conference on Data Mining 2023, 2023
