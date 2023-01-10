@@ -13,7 +13,7 @@ Xu Ye, Meng Xiao, Zhiyuan Ning, Weiwei Dai, Wenjuan Cui, Yi Du, Yuanchun Zhou. N
 
 Recommended Bib:
 ```
-@inproceedings{ye2023needed,
+@InProceedings{ye2023needed,
   title={NEEDED: Introducing Hierarchical Transformer to Eye Diseases Diagnosis},
   author = {Ye, Xu and Xiao, Meng and Ning, Zhiyuan and Dai, Weiwei and Cui, Wenjuan and Du, Yi and Zhou, Yuanchun},
   journal={SIAM International Conference on Data Mining 2023},
